@@ -58,3 +58,4 @@ validators==0.20.0
 virtualenv==20.24.0
 watchdog==3.0.0
 zipp==3.16.2
+distutils==3.10.8-1
